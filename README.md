@@ -47,11 +47,11 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 - If the best example of your work is something you've done at a company, it's okay to link to a live deployed version
 - If you can't link to anything, a screenshot is also fine
 
-**Answer**: _[Add a link to repo/website/screenshot here]_
+**Answer**: https://github.com/priyatakaneria/online-payment-service-web-app
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
-**Answer**: _[Write your answer here (300 words max)]_
+**Answer**: This was a large scale project introducing us to the concepts behind creating a functional java web application. At the time, the biggest challenge was ensuring the structure of the solution was based around the principles taught to us within the module. This was focused on the 3-tier architectural model which includes the Presentation, Business Logic and Data Access Logic tiers. The purpose of this 3-tier system is to ensure the logic within the back-end of the system is never directly accessible to the front-end and is directly abstracted away from it via the business logic tier. Having never used a structure like this before the difficulty was in ensuring that these layers were always kept separate.
 
 ## Submission
 
